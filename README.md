@@ -27,4 +27,4 @@ pytest
 
 ## Screenshot
 
-![Beedle route](screenshots/beedle.png)
+![Beedle route](screenshot.png)
